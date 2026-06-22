@@ -3,6 +3,8 @@
 ## Project Overview
 This project features a fully functional, redundant two-tier network topology simulated in Cisco Packet Tracer. It demonstrates production-ready enterprise infrastructure implementation, focusing on secure device management, dynamic host configuration, optimized switching, and segmented Inter-VLAN routing.
 
+![Network Topology Diagram](networkdiagram.png)
+
 ## Network Topology Layout & VLAN Architecture
 The network is segmented into distinct broadcast domains (VLANs) to enforce security boundaries and optimize traffic flow. 
 
